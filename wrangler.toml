@@ -1,0 +1,12 @@
+name = "trendnest"
+main = "worker.js"
+compatibility_date = "2024-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "trendnest-db"
+database_id = "4b16b13c-7619-43ab-a429-fc0e69dc1104"
+
+[[kv_namespaces]]
+binding = "MEDIA"
+id = "2949f3a5974a462c9c3c9c6761cb0bcb"
